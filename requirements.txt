@@ -1,0 +1,27 @@
+# Multi-Agent Simulation Framework
+mesa
+
+# Geospatial & Mapping Tools
+osmnx
+geopandas
+shapely
+fiona
+pyproj
+
+# Data Analysis & Mathematical Operations
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+requests
+googlemaps
+openaq
+
+streamlit-folium
+folium

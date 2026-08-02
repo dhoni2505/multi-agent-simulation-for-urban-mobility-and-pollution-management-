@@ -1,2 +1,0 @@
-# multi-agent-simulation-for-urban-mobility-and-pollution-management-
-Multi-agent simulation (MAS) for urban mobility and pollution management models individual travelers, vehicles, and traffic lights as autonomous agents interacting within a city grid. By simulating daily routines, mode choices, and traffic friction, this approach maps emergent congestion hot spots and calculates dynamic CO₂ or particulate emissions
