@@ -22,6 +22,7 @@ tqdm
 requests
 googlemaps
 openaq
+python-dotenv
 
 streamlit-folium
 folium
